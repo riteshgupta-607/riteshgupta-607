@@ -1,16 +1,40 @@
-## Hi there 👋
+ # Hi, I'm Ritesh Gupta
 
-<!--
-**riteshgupta-607/riteshgupta-607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE (AI/ML) Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm focused on improving my development skills by building projects, solving DSA problems, and contributing to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Doing
+
+* Contributing to open-source projects and exploring real-world codebases.
+* Practicing Data Structures and Algorithms using Java.
+* Building projects to strengthen my backend development skills.
+* Exploring AI/ML and Generative AI.
+
+## Technologies
+
+* Languages: Java, Python, JavaScript, SQL
+* Backend: Node.js, Express.js, REST APIs
+* Databases: MongoDB, SQL
+* Tools: Git, GitHub, VS Code
+
+## Current Goals
+
+* Make meaningful open-source contributions.
+* Build practical projects and improve my coding skills.
+* Learn from experienced developers and collaborate with the community.
+* Find opportunities to grow as a software developer.
+
+## Open to Opportunities
+
+I'm actively looking for software development internships and entry-level opportunities where I can contribute, learn from a team, and gain practical engineering experience.
+
+I'm also interested in collaborating on open-source projects.
+
+## Connect With Me
+
+* GitHub: [riteshgupta-607](https://github.com/riteshgupta-607)
+
+---
+
+Learning, contributing, and building, one step at a time.
