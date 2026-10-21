@@ -1,4 +1,4 @@
- # Hi, I'm Ritesh Gupta
+ # Hi, I'm Ritesh 
 
 B.Tech CSE (AI/ML) Student | Aspiring Software Engineer
 
