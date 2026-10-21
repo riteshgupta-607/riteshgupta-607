@@ -1,4 +1,5 @@
  # Hi, I'm Ritesh 
+ [![Squash · ready to earn](https://app.squash.ci/badge/196773185.svg?v=2)](https://app.squash.ci/u/196773185)
 
 B.Tech CSE (AI/ML) Student | Aspiring Software Engineer
 
